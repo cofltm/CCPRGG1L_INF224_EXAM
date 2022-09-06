@@ -13,7 +13,7 @@ public class App {
 
         me.sayMyStudentNumber();
         me.sayMyEmailAddress();
-        me.sayIAwesome();
+        me.iAmAwesome();
 
     }
 }
